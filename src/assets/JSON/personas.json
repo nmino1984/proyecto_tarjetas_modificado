@@ -1,0 +1,27 @@
+[
+    {
+        "codigo":"1",
+        "nombre":"Marcos rodriguez",
+        "mail":"mrodriguez@gmail.com",
+        "foto":"https:\/\/www.scratchya.com.ar\/angular\/fotos\/persona1.jpg"
+    },
+    {
+        "codigo":"2",
+        "nombre":"Ana Markos",
+        "mail":"amarcos@gmail.com",
+        "foto":"https:\/\/www.scratchya.com.ar\/angular\/fotos\/persona2.jpg"
+    },
+    {
+        "codigo":"3",
+        "nombre":"Hector Paz",
+        "mail":"hpaz@gmail.com",
+        "foto":"https:\/\/www.scratchya.com.ar\/angular\/fotos\/persona3.jpg"
+    },
+    {
+        "codigo":"4",
+        "nombre":"Laura Lopez",
+        "mail":"llopez@hotmail.com",
+        "foto":"https:\/\/www.scratchya.com.ar\/angular\/fotos\/persona4.jpg"
+    }
+
+]
